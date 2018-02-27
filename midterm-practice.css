@@ -14,3 +14,12 @@ div{
   font-weight: bold;
   font-size: 17px;
 }
+
+.byline2 {
+  font-style: italic;
+}
+
+.right-column {
+  font-size: 15px;
+
+}
