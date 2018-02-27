@@ -28,8 +28,8 @@ h1 {
 }
 
 .byline3 {
-  padding-bottom: 20px;
-  border-bottom: dotted;
+  padding-bottom: 20px; /* moves border down from text */
+  border-bottom: dotted; /* adds a border below byline */
 }
 
 @media screen and (min-width:500px) {
@@ -74,4 +74,8 @@ img {
 h2{
   font-size: 17px; /* makes h2 bigger */
   font-weight: bold; /* makes h2 bold */
+}
+
+.img2 {
+  width: 60%;
 }
