@@ -25,8 +25,14 @@ h1 {
 
 .right-column {
   font-size: 15px;
+  width: 75%;
+  float: left;
 }
 
+.left-column {
+  width: 25%
+  float: left;
+}
 .caption{
   font-size: 10px;
   color: gray;
