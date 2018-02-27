@@ -35,6 +35,7 @@ h1 {
 @media screen and (min-width:500px) {
 .right-column {
   font-size: 15px;
+  color: navy; /* made story text navy */
   width: 75%;
   float: left;
   padding-left: 30px;
@@ -59,7 +60,7 @@ img {
   margin-bottom: 0px; /* removes space between image and caption */
   padding-top: 0px; /* removes space between image and caption */
   max-width: 100%; /* fixes image spillover */
-  border: solid black;
+  border: solid black; /* added solid black border around images*/
 }
 
 .container {
