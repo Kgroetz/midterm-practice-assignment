@@ -77,7 +77,7 @@ h2{
 }
 
 .img2 {
-  width: 60%;
-  float: left;
-  padding-right: 20px;
+  width: 60%; /* makes photo 2 smaller */
+  float: left; /* makes photo 2 float left */
+  padding-right: 20px; /* adds space between photo 2 and story text */
 }
