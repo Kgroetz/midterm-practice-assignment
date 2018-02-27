@@ -1,3 +1,6 @@
+* {box-sizing: border-box;
+}
+
 body {
   background: gray;
 }
@@ -27,11 +30,13 @@ h1 {
   font-size: 15px;
   width: 75%;
   float: left;
+  padding-left: 30px;
 }
 
 .left-column {
   width: 25%;
   float: left;
+  padding-right: 30px;
 }
 .caption{
   font-size: 10px;
