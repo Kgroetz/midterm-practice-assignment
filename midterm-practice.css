@@ -11,6 +11,7 @@ div{
 h1 {
   font-size: 35px;
   font-style: italic; /* changes the text style to italic */
+  color: red; /* makes headline red */
 }
 
 .byline1, .byline2, .byline3 {
