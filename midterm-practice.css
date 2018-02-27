@@ -28,6 +28,7 @@ h1 {
 }
 
 .byline3 {
+  margin-bottom: 20px;
 }
 
 @media screen and (min-width:500px) {
