@@ -44,6 +44,13 @@ h1 {
 .caption{
   font-size: 10px;
   color: gray;
+  margin-top: 0px;
+  padding-top:0px;
+}
+
+img {
+  margin-bottom: 0px;
+  padding-top: 0px;
 }
 
 .container {
