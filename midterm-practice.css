@@ -65,8 +65,8 @@ img {
   max-width: 900px;
   margin: 0 auto;
   overflow: auto;
-  padding: 30px;
-  padding-right: 30px;
+  padding: 50px;
+  padding-right: 50px;
   font-family: helvetica, sans-serif; /* changes story font */
   box-shadow: 10px 10px; /* adds shadow to container */
 }
