@@ -5,6 +5,10 @@ div{
   background: white;
 }
 
+h1 {
+  font-size: 35px;
+}
+
 .byline1, .byline2, .byline3 {
   margin-top: 0;
   margin-bottom: 0;
