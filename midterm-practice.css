@@ -9,3 +9,8 @@ div{
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.byline1 {
+  font-weight: bold;
+  font-size: 17px;
+}
