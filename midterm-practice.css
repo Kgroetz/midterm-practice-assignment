@@ -10,7 +10,7 @@ div{
 
 h1 {
   font-size: 35px;
-  font-style: italic;
+  font-style: italic; /* changes the text style to italic */
 }
 
 .byline1, .byline2, .byline3 {
@@ -33,7 +33,7 @@ h1 {
   width: 75%;
   float: left;
   padding-left: 30px;
-  border-left: dotted;
+  border-left: dotted; /* adds a border between columns */
 }
 
 .left-column {
@@ -46,14 +46,14 @@ h1 {
 .caption{
   font-size: 10px;
   color: gray;
-  margin-top: 0px;
-  padding-top:0px;
+  margin-top: 0px; /* removes space between image and caption */
+  padding-top:0px; /* removes space between image and caption */
 }
 
 img {
-  margin-bottom: 0px;
-  padding-top: 0px;
-  max-width: 100%;
+  margin-bottom: 0px; /* removes space between image and caption */
+  padding-top: 0px; /* removes space between image and caption */
+  max-width: 100%; /* fixes image spillover */
 }
 
 .container {
@@ -62,11 +62,11 @@ img {
   overflow: auto;
   padding: 30px;
   padding-right: 30px;
-  font-family: helvetica, sans-serif;
-  box-shadow: 10px 10px;
+  font-family: helvetica, sans-serif; /* changes story font */
+  box-shadow: 10px 10px; /* adds shadow to container */
 }
 
 h2{
-  font-size: 17px;
-  font-weight: bold;
+  font-size: 17px; /* makes h2 bigger */
+  font-weight: bold; /* makes h2 bold */
 }
